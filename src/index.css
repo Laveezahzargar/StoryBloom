@@ -1,0 +1,95 @@
+body {
+    background: #f8f4ef;
+    font-family: "Poppins", sans-serif;
+}
+
+.card {
+    transition: all .3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-4px);
+    }
+
+.form-control {
+    border: 1px solid #ece5dd;
+}
+
+    .form-control:focus {
+        border-color: #d9a679;
+        box-shadow: 0 0 0 0.2rem rgba(217,166,121,.2);
+    }
+
+.btn {
+    transition: all .3s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-2px);
+    }
+.card {
+    transition: all 0.3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-6px);
+    }
+
+.badge {
+    font-size: 0.8rem;
+    padding: 8px 14px;
+}
+
+body {
+    background: #f8f4ef;
+    font-family: "Poppins", sans-serif;
+}
+.card {
+    transition: all .3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-4px);
+    }
+
+body {
+    background: #f8f4ef;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    color: #2d2d2d;
+}
+
+p {
+    color: #555;
+}
+h1 {
+    font-family: "Playfair Display", serif;
+}
+.form-select,
+.form-control {
+    border: 1px solid #ece5dd;
+}
+
+    .form-select:focus,
+    .form-control:focus {
+        border-color: #d9a679;
+        box-shadow: 0 0 0 .2rem rgba(217,166,121,.2);
+    }
+
+.card {
+    transition: all .3s ease;
+}
+
+    .card:hover {
+        transform: translateY(-4px);
+    }
+
+.btn {
+    transition: all .3s ease;
+}
+
+    .btn:hover {
+        transform: translateY(-2px);
+    }
