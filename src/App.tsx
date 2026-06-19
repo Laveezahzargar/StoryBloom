@@ -9,7 +9,7 @@ import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import GenerateBlog from "./pages/GenerateBlog";
 import ViewBlog from "./pages/ViewBlog";
-import ProtectedRoute from "./components/protectedRoute";
+import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
 
