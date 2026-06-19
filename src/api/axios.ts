@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:5238/api,https://storybloom-backend-zm26.onrender.com"
+    baseURL: "https://storybloom-backend-zm26.onrender.com"
 });
 
 api.interceptors.request.use(config => {
@@ -16,3 +16,17 @@ api.interceptors.request.use(config => {
 });
 
 export default api;
+
+
+
+
+
+
+
+
+
+
+
+
+
+// http:||localhost:5238/api
