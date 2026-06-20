@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "https://storybloom-backend-zm26.onrender.com"
+    baseURL: "https://storybloom-backend-zm26.onrender.com/api"
 });
 
 api.interceptors.request.use(config => {
